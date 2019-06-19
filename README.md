@@ -66,7 +66,6 @@
 ## CC-BY-NC-4.0
 * [A Programmer's Guide to Data Mining](http://guidetodatamining.com/)
 
-
 ## CC-BY-NC-SA-3.0
 * [Invent Your Own Computer Games With Python](http://inventwithpython.com/chapters/) - Al Sweigart (3.1)
 * [Automate the Boring Stuff](http://automatetheboringstuff.com/chapter0/) - Al Sweigart
@@ -131,9 +130,7 @@
 * [Google's Python Style Guide](https://google.github.io/styleguide/pyguide.html)
 * [Dive into Python 3](http://getpython3.com/diveintopython3/) - Mark Pilgrim (3.0)
   * [Dive into Python](http://www.diveintopython.net) - Mark Pilgrim (2.3)
-  
 ------------------------------------
-
 * [Biopython](http://biopython.org/DIST/docs/tutorial/Tutorial.pdf) (PDF)
 * [Code Like a Pythonista: Idiomatic Python](http://python.net/~goodger/projects/pycon/2007/idiomatic/handout.html)
 * [CodeCademy Python](https://www.codecademy.com/learn/python)
