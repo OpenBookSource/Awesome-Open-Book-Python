@@ -5,7 +5,7 @@
 
 ## MIT
 * [Full Stack Python](https://github.com/mattmakai/fullstackpython.com) 
-* [Think Python: How to Think Like a Computer Scientist](http://greenteapress.com/wp/think-python-2e/) [github](https://github.com/AllenDowney/ThinkPython2)
+* [Think Python: How to Think Like a Computer Scientist](https://buildmedia.readthedocs.org/media/pdf/howtothink/latest/howtothink.pdf/) [github](https://github.com/AllenDowney/ThinkPython2)
 * [Design Patterns in Python Talk](https://github.com/PJUllrich/Design-Patterns)
 * [Python Koans](https://github.com/gregmalcolm/python_koans) (2.7 or 3.x)
 
