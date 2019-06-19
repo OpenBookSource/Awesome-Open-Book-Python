@@ -14,14 +14,12 @@
 
 ## zlib
 * [Python 3 Tutorial](https://github.com/Akuli/python-tutorial)
+* [Math for programmers (using python)](https://akuli.github.io/math-tutorial/) [github](https://github.com/Akuli/math-tutorial)  [license](https://github.com/Akuli/math-tutorial/blob/master/LICENSE)
 
 ## CC-BY-3.0
 * [Lectures on scientific computing with python](https://github.com/jrjohansson/scientific-python-lectures) - J.R. Johansson (2.7)
 * [Python for Newbies](https://github.com/NYUDataBootcamp/Book)
 * [Kalman and Bayesian Filters in Python](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python)
-
-## Other (permissive)
-* [Math for programmers (using python)](https://akuli.github.io/math-tutorial/) [github](https://github.com/Akuli/math-tutorial)  [license](https://github.com/Akuli/math-tutorial/blob/master/LICENSE)
 
 ## CC-BY-SA-3.0
 * Dive into Python 3 [webpage](http://getpython3.com/diveintopython3/) [github](https://github.com/diveintomark/diveintopython3)
