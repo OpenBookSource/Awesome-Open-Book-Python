@@ -43,9 +43,10 @@
 --------------------------------------------------
 ## CC-BY-NC-3.0
 * [Think Python](http://www.greenteapress.com/thinkpython/) - Allen B. Downey (2.x & 3.0)
-
+* [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
 ## CC-BY-NC-4.0
 * [A Programmer's Guide to Data Mining](http://guidetodatamining.com/)
+
 
 ## CC-BY-NC-SA-3.0
 * [Invent Your Own Computer Games With Python](http://inventwithpython.com/chapters/) - Al Sweigart (3.1)
@@ -65,11 +66,15 @@
 * [The Little Book of Python Anti-Patterns](http://docs.quantifiedcode.com/python-anti-patterns/) ([Source](https://github.com/quantifiedcode/python-anti-patterns))
 
 -------------------------------------
+## CC-BY-ND
+* [A Brief Introduction to Neural Networks](http://www.dkriesel.com/en/science/neural_networks)
+* [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
 ## CC-BY-NC-ND
 * Building Skills in Python (CC BY-NC-ND) [webpage](http://www.itmaybeahack.com/homepage/books/python.html)
 * Programming Computer Vision with Python (CC BY-NC-ND) [webpage](http://programmingcomputervision.com/)
 * [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook) - Jake VanderPlas (HTML, Jupyter Notebooks)
 * [Building Skills in Python](http://www.itmaybeahack.com/book/python-2.6/latex/BuildingSkillsinPython.pdf) (PDF) (2.6)
+* [Reinforcement Learning](https://drive.google.com/file/d/1opPSz5AZ_kVa1uWOdOiveNiBFiEOHjkG/view)
 
 ## License Unavailable
 * [Intermediate Python](http://book.pythontips.com/en/latest/index.html#) - Muhammad Yasoob Ullah Khalid (1st edition)
