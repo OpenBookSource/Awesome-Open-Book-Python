@@ -6,6 +6,7 @@
 ## MIT
 * Full Stack Python [github](https://github.com/mattmakai/fullstackpython.com) 
 * Think Python: How to Think Like a Computer Scientist [webpage](http://greenteapress.com/wp/think-python-2e/) [github](https://github.com/AllenDowney/ThinkPython2)
+* [Design Patterns in Python Talk](https://github.com/PJUllrich/Design-Patterns)
 
 ## CC-BY-3.0
 * [Lectures on scientific computing with python](https://github.com/jrjohansson/scientific-python-lectures) - J.R. Johansson (2.7)
