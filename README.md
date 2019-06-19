@@ -29,6 +29,8 @@
 * [Django Official Documentation](https://media.readthedocs.org/pdf/django/1.10.x/django.pdf) (PDF) (1.10)
 * [Django Official Documentation](https://buildmedia.readthedocs.org/media/pdf/django/2.2.x/django.pdf) (PDF) (2.2)
 * [Django Girls Tutorial](https://tutorial.djangogirls.org/en/) (1.11)
+* [Learn Python in Y minutes](https://learnxinyminutes.com/docs/python/) [github](https://github.com/adambard/learnxinyminutes-docs)
+* [A Crash Course in Python for Scientists](https://nbviewer.jupyter.org/gist/rpmuller/5920182)
 
 ## CC-BY-SA-4.0
 * [A Byte of Python](https://python.swaroopch.com) (3.x) (HTML, PDF, EPUB, Mobi)
@@ -116,7 +118,7 @@
 * [Introduction to Programming with Python](http://opentechschool.github.io/python-beginners/en/) (3.3)
   * [Introduction to Programming Using Python](http://python-ebook.blogspot.co.uk) - Cody Jackson (1st edition) (2.3)
 * [Introduction to Python](http://kracekumar.com/post/71171551647/introduction-to-python) - Kracekumar (2.7.3)
-* [Learn Python in Y minutes](https://learnxinyminutes.com/docs/python/)
+
 * [Learn to Program Using Python](https://www.ida.liu.se/~732A47/literature/PythonBook.pdf) - Cody Jackson (PDF)
 * [Learning Python](https://www.packtpub.com/packt/free-ebook/learning-python) - Fabrizio Romano, Packt. (email address *requested*, not required)
 * [Making Games with Python & Pygame](http://inventwithpython.com/pygame/chapters/) - Al Sweigart (2.7)
