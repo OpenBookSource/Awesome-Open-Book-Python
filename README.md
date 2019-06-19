@@ -45,7 +45,7 @@ Full Stack Python [github](https://github.com/mattmakai/fullstackpython.com)
 * [C for Python Programmers - Carl Burch](http://www.toves.org/books/cpy/)
 * [Welcome to Java for Python Programmers](https://interactivepython.org/runestone/static/java4python/index.html) - Brad Miller
 * [Raspberry Pi Cookbook for Python Programmers](https://www.packtpub.com/packt/free-ebook/python-raspberry-pi-cookbook) - Tim Cox, Packt. (PDF) (email address *requested*, not required)
-* [PythonToScala](https://wrobstory.gitbooks.io/python-to-scala/content/) - Rob Story
+* [PythonToScala](https://wrobstory.gitbooks.io/python-to-scala/content/) [github](https://github.com/wrobstory/PythonToScala) - Rob Story
 ------------------------------------
 ### Unsorted Python
 
