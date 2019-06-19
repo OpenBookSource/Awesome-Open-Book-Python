@@ -1,22 +1,19 @@
 # Awesome Open Book Python
 
-
-## Commerical Permitted
-
-### Public Domain
+## Public Domain
 * [Explore Flask](https://exploreflask.com) - Robert Picard [github](https://github.com/rpicard/explore-flask)
 
-### MIT
+## MIT
 * Full Stack Python [github](https://github.com/mattmakai/fullstackpython.com) 
 * Think Python: How to Think Like a Computer Scientist (CC BY-NC 3.0) [webpage](http://greenteapress.com/wp/think-python-2e/) [github](https://github.com/AllenDowney/ThinkPython2)
 
-### CC BY 3.0
+## CC-BY-3.0
 * [Lectures on scientific computing with python](https://github.com/jrjohansson/scientific-python-lectures) - J.R. Johansson (2.7)
 
-### Other (permissive)
+## Other (permissive)
 * [Math for programmers (using python)](https://akuli.github.io/math-tutorial/) [github](https://github.com/Akuli/math-tutorial)  [license](https://github.com/Akuli/math-tutorial/blob/master/LICENSE)
 
-### CC BY-SA 3.0
+## CC-BY-SA-3.0
 * Dive into Python 3 [webpage](http://getpython3.com/diveintopython3/) [github](https://github.com/diveintomark/diveintopython3)
 * [Python Programming](https://upload.wikimedia.org/wikipedia/commons/9/91/Python_Programming.pdf) - Wikibooks (PDF) (2.6)
 * [Python Programming](https://en.wikibooks.org/wiki/Python_Programming) - Wikibooks (2.7)
@@ -27,7 +24,6 @@
 * [The Python Game Book](http://thepythongamebook.com/en%3Astart)
 * [Functional Programming in Python](http://www.oreilly.com/programming/free/functional-programming-python.csp) (email address *requested*, not required)
 * [A Beginner's Python Tutorial](https://en.wikibooks.org/wiki/A_Beginner%27s_Python_Tutorial) - Wikibooks
-#### Django
 * [Django Official Documentation](https://media.readthedocs.org/pdf/django/1.5.x/django.pdf) (PDF) (1.5)
 * [Django Official Documentation](https://media.readthedocs.org/pdf/django/1.7.x/django.pdf) (PDF) (1.7)
 * [Django Official Documentation](https://media.readthedocs.org/pdf/django/1.9.x/django.pdf) (PDF) (1.9)
@@ -35,16 +31,16 @@
 * [Django Official Documentation](https://buildmedia.readthedocs.org/media/pdf/django/2.2.x/django.pdf) (PDF) (2.2)
 * [Django Girls Tutorial](https://tutorial.djangogirls.org/en/) (1.11)
 
-### [GFDL](https://www.gnu.org/licenses/fdl-1.3.html)
+## [GFDL](https://www.gnu.org/licenses/fdl-1.3.html)
 * [Practical Programming in Python](https://launchpadlibrarian.net/165489933/PracticalProgrammingPython2014.pdf) - Jeffrey Elkner (PDF)
 * [How to Think Like a Computer Scientist: Learning with Python, Interactive Edition](http://interactivepython.org/courselib/static/thinkcspy/index.html) (3.2)
 * [How to Think Like a Computer Scientist: Learning with Python](http://www.greenteapress.com/thinkpython/thinkCSpy/) - Allen B. Downey, Jeff Elkner and Chris Meyers (2.4)
 
-## Noncomerical Only
-### CC BY-NC 3.0
+--------------------------------------------------
+## CC-BY-NC-3.0
 * [Think Python](http://www.greenteapress.com/thinkpython/) - Allen B. Downey (2.x & 3.0)
 
-### CC BY-NC-SA 3.0
+## CC-BY-NC-SA-3.0
 * [Invent Your Own Computer Games With Python](http://inventwithpython.com/chapters/) - Al Sweigart (3.1)
 * [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/) 
 * [The Hitchhiker’s Guide to Python](http://docs.python-guide.org/en/latest/)
@@ -57,18 +53,18 @@
 * [Hacking Secret Cyphers with Python](http://inventwithpython.com/hacking/chapters/) - Al Sweigart (3.3)
 * [Problem Solving with Algorithms and Data Structures using Python](http://interactivepython.org/runestone/static/pythonds/index.html) - Bradley N. Miller and David L. Ranum
 
-### CC BY-NC-SA 4.0
+## CC-BY-NC-SA-4.0
 * Think Complexity (CC BY-NC-SA 4.0) [webpage](http://greenteapress.com/wp/think-complexity-2e/)
 * [The Little Book of Python Anti-Patterns](http://docs.quantifiedcode.com/python-anti-patterns/) ([Source](https://github.com/quantifiedcode/python-anti-patterns))
 
-## Noncomerical; No Derivatives Allowed
-### CC BY-NC-ND
+-------------------------------------
+## CC-BY-NC-ND
 * Building Skills in Python (CC BY-NC-ND) [webpage](http://www.itmaybeahack.com/homepage/books/python.html)
 * Programming Computer Vision with Python (CC BY-NC-ND) [webpage](http://programmingcomputervision.com/)
 * [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook) - Jake VanderPlas (HTML, Jupyter Notebooks)
 * [Building Skills in Python](http://www.itmaybeahack.com/book/python-2.6/latex/BuildingSkillsinPython.pdf) (PDF) (2.6)
 
-## No Open License Found
+## License Unavailable
 * [Intermediate Python](http://book.pythontips.com/en/latest/index.html#) - Muhammad Yasoob Ullah Khalid (1st edition)
 * [Learn Python, Break Python](http://learnpythonbreakpython.com)
 * [Learning to Program](http://www.alan-g.me.uk)
@@ -85,11 +81,6 @@
 * [Text Processing in Python](http://gnosis.cx/TPiP/) - David Mertz (2.3 - 2.x)
 * [Building Machine Learning Systems with Python](https://www.packtpub.com/packt/free-ebook/python-machine-learning-algorithms) - Willi Richert & Luis Pedro Coelho, Packt. (email address *requested*, not required)
 
-#### Django
-* [Djen of Django](http://agiliq.com/books/djenofdjango/)
-* [Effective Django](http://www.effectivedjango.com) (1.5)
-* [How to Tango With Django](http://www.tangowithdjango.com/book17/) (1.7)
-
 ------------------------------------
 ### Unsorted Misc Python
 
@@ -102,8 +93,10 @@
 * [C for Python Programmers - Carl Burch](http://www.toves.org/books/cpy/)
 * [Welcome to Java for Python Programmers](https://interactivepython.org/runestone/static/java4python/index.html) - Brad Miller
 ------------------------------------
-### Unsorted Python
-
+* [Djen of Django](http://agiliq.com/books/djenofdjango/)
+* [Effective Django](http://www.effectivedjango.com) (1.5)
+* [How to Tango With Django](http://www.tangowithdjango.com/book17/) (1.7)
+------------------------------------
 * [A Guide to Python's Magic Methods](https://github.com/RafeKettler/magicmethods) - Rafe Kettler
 * [Automate the Boring Stuff](http://automatetheboringstuff.com/chapter0/) - Al Sweigart
 * [Biopython](http://biopython.org/DIST/docs/tutorial/Tutorial.pdf) (PDF)
