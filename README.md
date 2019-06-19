@@ -1,4 +1,4 @@
-# Awesome Open Python Books
+# Awesome Open Book: Python
 
 
 ## Commerical Permitted
