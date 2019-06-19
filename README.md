@@ -44,6 +44,9 @@
 ## CC-BY-NC-3.0
 * [Think Python](http://www.greenteapress.com/thinkpython/) - Allen B. Downey (2.x & 3.0)
 
+## CC-BY-NC-4.0
+* [A Programmer's Guide to Data Mining](http://guidetodatamining.com/)
+
 ## CC-BY-NC-SA-3.0
 * [Invent Your Own Computer Games With Python](http://inventwithpython.com/chapters/) - Al Sweigart (3.1)
 * [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/) 
