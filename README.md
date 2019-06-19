@@ -7,10 +7,18 @@
 * [Full Stack Python](https://github.com/mattmakai/fullstackpython.com) 
 * [Think Python: How to Think Like a Computer Scientist](http://greenteapress.com/wp/think-python-2e/) [github](https://github.com/AllenDowney/ThinkPython2)
 * [Design Patterns in Python Talk](https://github.com/PJUllrich/Design-Patterns)
+* [Python Koans](https://github.com/gregmalcolm/python_koans) (2.7 or 3.x)
+
+## BSD-2
+* [Programming Computer Vision with Python](http://programmingcomputervision.com) - Jan Erik Solem
+
+## zlib
+* [Python 3 Tutorial](https://github.com/Akuli/python-tutorial)
 
 ## CC-BY-3.0
 * [Lectures on scientific computing with python](https://github.com/jrjohansson/scientific-python-lectures) - J.R. Johansson (2.7)
 * [Python for Newbies](https://github.com/NYUDataBootcamp/Book)
+* [Kalman and Bayesian Filters in Python](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python)
 
 ## Other (permissive)
 * [Math for programmers (using python)](https://akuli.github.io/math-tutorial/) [github](https://github.com/Akuli/math-tutorial)  [license](https://github.com/Akuli/math-tutorial/blob/master/LICENSE)
@@ -34,6 +42,8 @@
 * [Learn Python in Y minutes](https://learnxinyminutes.com/docs/python/) [github](https://github.com/adambard/learnxinyminutes-docs)
 * [A Crash Course in Python for Scientists](https://nbviewer.jupyter.org/gist/rpmuller/5920182)
 * [Introduction to Programming with Python](https://github.com/OpenTechSchool/python-beginners) (3.3)
+* [C for Python Programmers - Carl Burch](http://www.toves.org/books/cpy/)
+* [Composing Programs](http://composingprograms.com) (3.x)
 
 ## CC-BY-SA-4.0
 * [A Byte of Python](https://python.swaroopch.com) (3.x) (HTML, PDF, EPUB, Mobi)
@@ -50,12 +60,17 @@
 ## CC-BY-NC-3.0
 * [Think Python](http://www.greenteapress.com/thinkpython/) - Allen B. Downey (2.x & 3.0)
 * [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
+* [Python Practice Book](http://anandology.com/python-practice-book/index.html) (2.7.1)
+* [Think Stats: Probability and Statistics for Programmers](http://greenteapress.com/thinkstats/) - Allen B. Downey (using Python)
+
 ## CC-BY-NC-4.0
 * [A Programmer's Guide to Data Mining](http://guidetodatamining.com/)
 
 
 ## CC-BY-NC-SA-3.0
 * [Invent Your Own Computer Games With Python](http://inventwithpython.com/chapters/) - Al Sweigart (3.1)
+* [Automate the Boring Stuff](http://automatetheboringstuff.com/chapter0/) - Al Sweigart
+* [Making Games with Python & Pygame](http://inventwithpython.com/pygame/chapters/) - Al Sweigart (2.7)
 * [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/) 
 * [The Hitchhiker’s Guide to Python](http://docs.python-guide.org/en/latest/)
 * [Hitchhiker's Guide to Python!](http://docs.python-guide.org/en/latest/) (2.6)
@@ -67,6 +82,7 @@
 * [Hacking Secret Cyphers with Python](http://inventwithpython.com/hacking/chapters/) - Al Sweigart (3.3)
 * [Problem Solving with Algorithms and Data Structures using Python](http://interactivepython.org/runestone/static/pythonds/index.html) - Bradley N. Miller and David L. Ranum
 * [A Guide to Python's Magic Methods](https://github.com/RafeKettler/magicmethods) - Rafe Kettler
+* [Test-Driven Web Development with Python](http://www.obeythetestinggoat.com/pages/book.html) - Harry Percival (3.3 - 3.x)
 
 ## CC-BY-NC-SA-4.0
 * Think Complexity (CC BY-NC-SA 4.0) [webpage](http://greenteapress.com/wp/think-complexity-2e/)
@@ -76,12 +92,16 @@
 ## CC-BY-ND
 * [A Brief Introduction to Neural Networks](http://www.dkriesel.com/en/science/neural_networks)
 * [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
-## CC-BY-NC-ND
-* Building Skills in Python (CC BY-NC-ND) [webpage](http://www.itmaybeahack.com/homepage/books/python.html)
-* Programming Computer Vision with Python (CC BY-NC-ND) [webpage](http://programmingcomputervision.com/)
+
+* [Programming Computer Vision with Python](http://programmingcomputervision.com/)
 * [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook) - Jake VanderPlas (HTML, Jupyter Notebooks)
 * [Building Skills in Python](http://www.itmaybeahack.com/book/python-2.6/latex/BuildingSkillsinPython.pdf) (PDF) (2.6)
 * [Reinforcement Learning](https://drive.google.com/file/d/1opPSz5AZ_kVa1uWOdOiveNiBFiEOHjkG/view)
+* [Building Skills in Object-Oriented Design (Python)](http://www.itmaybeahack.com/book/oodesign-python-2.1/latex/BuildingSkillsinOODesign.pdf) (PDF) (2.1.1)
+* [Tiny Python 3.6 Notebook](https://github.com/mattharrison/Tiny-Python-3.6-Notebook) - Matt Harrison (3.6)
+
+## CC-BY-NC-ND
+* [Annotated Algorithms in Python: Applications in Physics, Biology, and Finance](https://github.com/mdipierro/nlib) - Massimo di Pierro
 
 ## License Unavailable
 * [Intermediate Python](http://book.pythontips.com/en/latest/index.html#) - Muhammad Yasoob Ullah Khalid (1st edition)
@@ -99,67 +119,45 @@
 * [Modeling Creativity: Case Studies in Python](http://www.clips.ua.ac.be/sites/default/files/modeling-creativity.pdf) - Tom D. De Smedt (PDF)
 * [Text Processing in Python](http://gnosis.cx/TPiP/) - David Mertz (2.3 - 2.x)
 * [Building Machine Learning Systems with Python](https://www.packtpub.com/packt/free-ebook/python-machine-learning-algorithms) - Willi Richert & Luis Pedro Coelho, Packt. (email address *requested*, not required)
-
-------------------------------------
-### Unsorted Misc Python
-
-* [Annotated Algorithms in Python: Applications in Physics, Biology, and Finance](https://github.com/mdipierro/nlib) - Massimo di Pierro
-* [Programming Computer Vision with Python](http://programmingcomputervision.com) - Jan Erik Solem
-* [Kalman and Bayesian Filters in Python](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python)
-* [Think Stats: Probability and Statistics for Programmers](http://greenteapress.com/thinkstats/) - Allen B. Downey (using Python)
-------------------------------------
+* [Introduction to Programming Using Python](http://python-ebook.blogspot.co.uk) - Cody Jackson (1st edition) (2.3)
+* [Hadoop with Python](http://www.oreilly.com/programming/free/hadoop-with-python.csp) (email address *requested*, not required)
+* [Porting to Python 3: An In-Depth Guide](http://python3porting.com) (2.6 - 2.x & 3.1 - 3.x)
+* [Introduction to Python](http://kracekumar.com/post/71171551647/introduction-to-python) - Kracekumar (2.7.3)
 * [PythonToScala](https://wrobstory.gitbooks.io/python-to-scala/content/) ([github](https://github.com/wrobstory/PythonToScala)) - Rob Story
-* [C for Python Programmers - Carl Burch](http://www.toves.org/books/cpy/)
 * [Welcome to Java for Python Programmers](https://interactivepython.org/runestone/static/java4python/index.html) - Brad Miller
-------------------------------------
 * [Djen of Django](http://agiliq.com/books/djenofdjango/)
 * [Effective Django](http://www.effectivedjango.com) (1.5)
 * [How to Tango With Django](http://www.tangowithdjango.com/book17/) (1.7)
-------------------------------------
-
-* [Automate the Boring Stuff](http://automatetheboringstuff.com/chapter0/) - Al Sweigart
-* [Biopython](http://biopython.org/DIST/docs/tutorial/Tutorial.pdf) (PDF)
-
-* [Building Skills in Object-Oriented Design (Python)](http://www.itmaybeahack.com/book/oodesign-python-2.1/latex/BuildingSkillsinOODesign.pdf) (PDF) (2.1.1)
-* [Code Like a Pythonista: Idiomatic Python](http://python.net/~goodger/projects/pycon/2007/idiomatic/handout.html)
-* [CodeCademy Python](https://www.codecademy.com/learn/python)
-* [Composing Programs](http://composingprograms.com) (3.x)
+* [Google's Python Style Guide](https://google.github.io/styleguide/pyguide.html)
 * [Dive into Python 3](http://getpython3.com/diveintopython3/) - Mark Pilgrim (3.0)
   * [Dive into Python](http://www.diveintopython.net) - Mark Pilgrim (2.3)
+  
+------------------------------------
+
+* [Biopython](http://biopython.org/DIST/docs/tutorial/Tutorial.pdf) (PDF)
+* [Code Like a Pythonista: Idiomatic Python](http://python.net/~goodger/projects/pycon/2007/idiomatic/handout.html)
+* [CodeCademy Python](https://www.codecademy.com/learn/python)
 * [Google's Python Class](https://developers.google.com/edu/python/) (2.4 - 2.x)
-* [Google's Python Style Guide](https://google.github.io/styleguide/pyguide.html)
-* [Hadoop with Python](http://www.oreilly.com/programming/free/hadoop-with-python.csp) (email address *requested*, not required)
 * [How to Make Mistakes in Python](http://www.oreilly.com/programming/free/files/how-to-make-mistakes-in-python.pdf) - Mike Pirnat (PDF) (1st edition)
-
-  * [Introduction to Programming Using Python](http://python-ebook.blogspot.co.uk) - Cody Jackson (1st edition) (2.3)
-* [Introduction to Python](http://kracekumar.com/post/71171551647/introduction-to-python) - Kracekumar (2.7.3)
-
 * [Learn to Program Using Python](https://www.ida.liu.se/~732A47/literature/PythonBook.pdf) - Cody Jackson (PDF)
 * [Learning Python](https://www.packtpub.com/packt/free-ebook/learning-python) - Fabrizio Romano, Packt. (email address *requested*, not required)
-* [Making Games with Python & Pygame](http://inventwithpython.com/pygame/chapters/) - Al Sweigart (2.7)
 * [Natural Language Processing with Python](http://www.nltk.org/book/) (3.x)
 * [Picking a Python Version: A Manifesto](http://www.oreilly.com/programming/free/from-future-import-python.csp) (email address *requested*, not required)
-* [Porting to Python 3: An In-Depth Guide](http://python3porting.com) (2.6 - 2.x & 3.1 - 3.x)
 * [Python 2 Official Documentation](https://docs.python.org/2/download.html) (PDF, HTML, TEXT) (2.x)
 * [Python 3 Official Documentation](https://docs.python.org/3/download.html) (PDF, EPUB, HTML, TEXT) (3.x)
-* [Python 3 Tutorial](https://github.com/Akuli/python-tutorial)
 * [Python for you and me](http://pymbook.readthedocs.org/en/latest/) (2.7.3)
 * [Python for you and me](http://pymbook.readthedocs.org/en/py3/) (3.x)
 * [Python Idioms](http://safehammad.com/downloads/python-idioms-2014-01-16.pdf) (PDF)
 * [Python in Education](http://www.oreilly.com/programming/free/python-in-education.csp) (email address *requested*, not required)
 * [Python in Hydrology](http://www.greenteapress.com/pythonhydro/pythonhydro.html) - Sat Kumar Tomer
-* [Python Koans](https://github.com/gregmalcolm/python_koans) (2.7 or 3.x)
 * [Python Module of the Week](https://pymotw.com/3/) (3.x)
   * [Python Module of the Week](https://pymotw.com/2/) (2.x)
-* [Python Practice Book](http://anandology.com/python-practice-book/index.html) (2.7.1)
 * [Scipy Lecture Notes](http://scipy-lectures.github.io)
 * [SICP in Python](http://www-inst.eecs.berkeley.edu/~cs61a/sp12/book/) (3.2)
-* [Test-Driven Web Development with Python](http://www.obeythetestinggoat.com/pages/book.html) - Harry Percival (3.3 - 3.x)
 * [The Coder's Apprentice: Learning Programming with Python 3](http://www.spronck.net/pythonbook/) - Pieter Spronck (PDF) (3.x)
 * [The Definitive Guide to Jython, Python for the Java Platform](http://www.jython.org/jythonbook/en/1.0) - Josh Juneau, Jim Baker, Victor Ng, Leo Soto, Frank Wierzbicki (2.5)
 * [The Programming Historian](http://niche-canada.org/research/niche-digital-infrastructure-project/the-programming-historian/) - William J. Turkel, Adam Crymble and Alan MacEachern
 * [The Python Ecosystem: An Introduction](http://mirnazim.org/writings/python-ecosystem-introduction/)
 * [The Python GTK+ 3 Tutorial](http://python-gtk-3-tutorial.readthedocs.org/en/latest/)
 * [Think Complexity](http://greenteapress.com/complexity/) - Allen B. Downey (2nd Edition) (PDF, HTML)
-* [Tiny Python 3.6 Notebook](https://github.com/mattharrison/Tiny-Python-3.6-Notebook) - Matt Harrison (3.6)
 * [Web2py: Complete Reference Manual, 6th Edition (pre-release)](http://web2py.com/book) (2.5 - 2.x)
