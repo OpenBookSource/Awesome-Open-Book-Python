@@ -9,9 +9,6 @@
 * [Design Patterns in Python Talk](https://github.com/PJUllrich/Design-Patterns)
 * [Python Koans](https://github.com/gregmalcolm/python_koans) (2.7 or 3.x)
 
-## BSD-2
-* [Programming Computer Vision with Python](http://programmingcomputervision.com) - Jan Erik Solem
-
 ## zlib
 * [Python 3 Tutorial](https://github.com/Akuli/python-tutorial)
 * [Math for programmers (using python)](https://akuli.github.io/math-tutorial/) [github](https://github.com/Akuli/math-tutorial)  [license](https://github.com/Akuli/math-tutorial/blob/master/LICENSE)
@@ -99,6 +96,7 @@
 
 ## CC-BY-NC-ND
 * [Annotated Algorithms in Python: Applications in Physics, Biology, and Finance](https://github.com/mdipierro/nlib) - Massimo di Pierro
+* [Programming Computer Vision with Python](http://programmingcomputervision.com) - Jan Erik Solem
 
 ## License Unavailable
 * [Intermediate Python](http://book.pythontips.com/en/latest/index.html#) - Muhammad Yasoob Ullah Khalid (1st edition)
