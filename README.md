@@ -18,6 +18,11 @@
 * [Python for Newbies](https://github.com/NYUDataBootcamp/Book)
 * [Kalman and Bayesian Filters in Python](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python)
 
+## CC-BY-4.0
+* [Scientific Python Cheat Sheet](https://github.com/IPGP/scientific_python_cheat_sheet)
+* [Dive Into Machine Learning](https://github.com/hangtwenty/dive-into-machine-learning)
+* [NYCDatabootCamp](https://github.com/NYUDataBootcamp/Book)
+
 ## CC-BY-SA-3.0
 * Dive into Python 3 [webpage](http://getpython3.com/diveintopython3/) [github](https://github.com/diveintomark/diveintopython3)
 * [Python Programming](https://upload.wikimedia.org/wikipedia/commons/9/91/Python_Programming.pdf) - Wikibooks (PDF) (2.6)
