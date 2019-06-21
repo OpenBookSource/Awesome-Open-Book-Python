@@ -22,6 +22,8 @@
 * [Scientific Python Cheat Sheet](https://github.com/IPGP/scientific_python_cheat_sheet)
 * [Dive Into Machine Learning](https://github.com/hangtwenty/dive-into-machine-learning)
 * [NYCDatabootCamp](https://github.com/NYUDataBootcamp/Book)
+* [Intro to Python](https://github.com/imperialchem/python-prog-intro)
+* [Python-101](https://github.com/socrata/python-101)
 
 ## CC-BY-SA-3.0
 * Dive into Python 3 [webpage](http://getpython3.com/diveintopython3/) [github](https://github.com/diveintomark/diveintopython3)
