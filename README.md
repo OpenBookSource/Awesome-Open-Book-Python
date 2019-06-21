@@ -5,7 +5,7 @@
 
 ## MIT
 * [Full Stack Python](https://github.com/mattmakai/fullstackpython.com) 
-* [Think Python: How to Think Like a Computer Scientist](https://buildmedia.readthedocs.org/media/pdf/howtothink/latest/howtothink.pdf/) [github](https://github.com/AllenDowney/ThinkPython2)
+
 * [Design Patterns in Python Talk](https://github.com/PJUllrich/Design-Patterns)
 * [Python Koans](https://github.com/gregmalcolm/python_koans) (2.7 or 3.x)
 
@@ -57,6 +57,7 @@
 * [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
 * [Python Practice Book](http://anandology.com/python-practice-book/index.html) (2.7.1)
 * [Think Stats: Probability and Statistics for Programmers](http://greenteapress.com/thinkstats/) - Allen B. Downey (using Python)
+* [Think Python: How to Think Like a Computer Scientist](https://buildmedia.readthedocs.org/media/pdf/howtothink/latest/howtothink.pdf/) [github](https://github.com/AllenDowney/ThinkPython2)
 
 ## CC-BY-NC-4.0
 * [A Programmer's Guide to Data Mining](http://guidetodatamining.com/)
